@@ -1,0 +1,64 @@
+
+
+schema: https://htr-united.github.io/schema/2023-06-27/schema.json
+title: 'Naples Dante Project '
+url: https://github.com/PonteIneptique/eDante
+authors:
+  - name: Gennaro
+    surname: Ferrante
+    roles:
+      - project-manager
+  - name: Riccardo
+    surname: Montalto
+    roles:
+      - transcriber
+  - name: Eleonora
+    surname: Lauro
+    roles:
+      - transcriber
+  - name: Sara
+    surname: Palma
+    roles:
+      - transcriber
+  - name: Federica
+    surname: De Biase
+    roles:
+      - transcriber
+  - name: Paola
+    surname: Rea
+    roles:
+      - transcriber
+  - name: Thibault
+    surname: Clérice
+    roles:
+      - support
+institutions: []
+description: >-
+  The Naples Dante Project contains transcription according to CATMuS Guidelines
+  for manuscripts of Dante’s work
+language:
+  - ita
+production-software: eScriptorium + Kraken
+automatically-aligned: false
+script:
+  - iso: Latn
+script-type: only-manuscript
+time:
+  notBefore: '1200'
+  notAfter: '1500'
+hands:
+  count: 1-per-folder
+  precision: estimated
+license:
+  name: CC-BY 4.0
+  url: https://creativecommons.org/licenses/by/4.0/
+format: Alto-XML
+volume:
+  - metric: lines
+    count: 1
+  - metric: files
+    count: 1
+  - metric: characters
+    count: 1
+transcription-guidelines: CATMuS Guidelines ( https://catmus-guidelines.github.io/ )
+
