@@ -21,3 +21,4 @@ j,LATIN SMALL LETTER J,i,0
 #r#[./:⟦⟧‸\-¶],Allowed ponctuation,#r#[./:⟦⟧‸\-¶],
 #r#\u0300,COMBINING GRAVE ACCENT,,
 ⁋,REVERSED PILCROW SIGN,¶,
+",",COMMA,.,
