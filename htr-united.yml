@@ -34,64 +34,81 @@ characters:
   - a
   - i
   - o
-  - n
   - l
-  - r
+  - n
   - t
+  - r
   - c
   - s
   - u
   - d
   - m
-  - p
   - h
+  - p
   - g
-  - f
-  - ̃
-  - b
-  - ⁊
-  - q
   - .
+  - f
+  - b
+  - ̃
+  - q
+  - ⁊
   - ꝑ
   - /
   - ̧
   - E
-  - ꝗ
   - C
   - Q
   - L
   - P
-  - I
+  - ꝗ
   - D
-  - ẜ
-  - A
-  - O
-  - S
+  - I
   - M
-  - N
-  - U
-  - y
+  - S
   - T
-  - x
-  - z
-  - F
-  -  
-  - ͥ
-  - G
-  - R
-  - ł
-  - ͦ
-  - k
-  - ͩ
-  - ̶
-  - ꝰ
-  - Ꝑ
-  - ⁱ
-  - B
-  - H
-  - ͤ
+  - A
+  - N
+  - O
+  - U
+  - ẜ
   - ⟦
   - ⟧
+  - y
+  - F
+  - x
+  - R
+  - G
+  - z
+  -  
+  - ͩ
+  - ͥ
+  - ͨ
+  - ͦ
+  - B
+  - ͣ
+  - ͪ
+  - ł
+  - ‸
+  - ᷨ
+  - ͤ
+  - ᷫ
+  - ᷝ
+  - k
+  - ̶
+  - ꝰ
+  - ','
+  - ᶠ
+  - ʰ
+  - ᵐ
+  - ꝯ
+  - ᷜ
+  - ᷚ
+  - ʳ
+  - ᵃ
+  - ᷤ
+  - Ꝑ
+  - ⁱ
+  - H
   - ¶
   - ̾
   - X
@@ -122,11 +139,11 @@ transcription-guidelines: CATMuS Guidelines ( https://catmus-guidelines.github.i
   )
 url: https://github.com/PonteIneptique/eDante
 volume:
-- count: 30343
+- count: 42727
   metric: characters
-- count: 15
+- count: 21
   metric: files
-- count: 1063
+- count: 1516
   metric: lines
-- count: 49
+- count: 73
   metric: regions
