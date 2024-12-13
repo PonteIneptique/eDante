@@ -90,7 +90,6 @@ characters:
   - ͦ
   - ͣ
   - ͪ
-  - ł
   - K
   - ‸
   - ᷨ
@@ -98,7 +97,6 @@ characters:
   - ᷫ
   - ᷝ
   - ̶
-  - ꝰ
   - Y
   - ᶠ
   - ʰ
@@ -112,8 +110,10 @@ characters:
   - ⁱ
   - H
   - ¶
+  - ł
   - ̾
   - X
+  - ꝰ
   mode: NFD
 description: >-
   The Naples Dante Project contains transcription according to CATMuS Guidelines
@@ -141,7 +141,7 @@ transcription-guidelines: CATMuS Guidelines ( https://catmus-guidelines.github.i
   )
 url: https://github.com/PonteIneptique/eDante
 volume:
-- count: 60946
+- count: 60950
   metric: characters
 - count: 30
   metric: files
